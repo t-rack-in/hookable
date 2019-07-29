@@ -1,5 +1,5 @@
 {
-    "name": "sofa/hookable",
+    "name": "ogestor/hookable",
     "description": "Laravel Eloquent hooks system.",
     "license": "MIT",
     "support": {
