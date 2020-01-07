@@ -1,5 +1,5 @@
 {
-    "name": "ogestor/hookable",
+    "name": "ceopag/hookable",
     "description": "Laravel Eloquent hooks system.",
     "license": "MIT",
     "support": {
